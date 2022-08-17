@@ -16,3 +16,16 @@ git config --global user.name "Ansar20015"
 git config --global init.defaultBranch main
 git config --global --list
 git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/Ansar20015/events-app-internal.git
+git push -u origin main
+git push -u origin main
+git push -u origin main
+git push -u origin main
+git init
+git add .
+git remote add origin https://github.com/Ansar20015/events-app-external.git
+git remote add origin https://github.com/Ansar20015/events-app-external.git
+git push -u origin main
+change internal
